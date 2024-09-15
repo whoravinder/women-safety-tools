@@ -24,5 +24,5 @@ Contributors:
   <li>OpenCV error: This is a common error that arises due to incorrect / pip installation of OpenCv , if the error occurs please download 4.10 release of the opencv from <a href="https://opencv.org/releases/">this link</a> </li>
 </ol>
 
-<h3>Feel Free to Conntribute</h3>
+<h3>Feel Free to Contribute</h3>
 <p>For feedbacks please mail us on thelostdevs@gmail.com</p>
