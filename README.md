@@ -25,4 +25,4 @@ Contributors:
 </ol>
 
 <h3>Feel Free to Contribute</h3>
-<p>For feedbacks please mail us on thelostdevs@gmail.com</p>
+<p>For feedbacks please mail us on lostdevdocs@gmail.com</p>
