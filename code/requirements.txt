@@ -1,0 +1,9 @@
+opencv-python
+numpy
+geocoder
+scikit-learn
+matplotlib
+seaborn
+neural-compressor
+twilio
+geopy
